@@ -1,16 +1,13 @@
-## Hi there 👋
+# Zhongyang Liu (Peter)
 
-<!--
-**leosasForVictory940729/leosasForVictory940729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Computer Science  
+University of Edinburgh  
 
-Here are some ideas to get you started:
+## About Me
+I am a postgraduate student in Computer Science, interested in:
+- Machine Learning
+- Probabilistic Modelling
+- Computational Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+Email: s2797480@ed.ac.uk
